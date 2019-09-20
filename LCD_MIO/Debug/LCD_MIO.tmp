@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.43</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Studio 5.0\avrassembler\include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Studio 5.0\avrassembler\include\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\Debug/LCD_MIO.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\Debug/LCD_MIO.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\Debug/LCD_MIO.map</FILE>
+  <FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\Debug/LCD_MIO.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Start><FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</FILE><LINE>11</LINE></Start>
+  <ConfiguracionLCD><FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</FILE><LINE>29</LINE></ConfiguracionLCD>
+  <Loop100ms><FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</FILE><LINE>335</LINE></Loop100ms>
+  <SREnviarInfo><FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</FILE><LINE>325</LINE></SREnviarInfo>
+  <Mensaje><FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</FILE><LINE>69</LINE></Mensaje>
+  <Loop500ms><FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</FILE><LINE>358</LINE></Loop500ms>
+  <Loop1s><FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</FILE><LINE>371</LINE></Loop1s>
+  <L1><FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</FILE><LINE>339</LINE></L1>
+  <Loop100us><FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</FILE><LINE>347</LINE></Loop100us>
+  <L2><FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</FILE><LINE>350</LINE></L2>
+  <L3><FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</FILE><LINE>363</LINE></L3>
+  <L4><FILE>C:\Users\YO\Desktop\TFG\LCD_MIO\LCD_MIO\LCD_MIO.asm</FILE><LINE>376</LINE></L4>
+ </LABELS>
+</ASSEMBLER_INFO>
